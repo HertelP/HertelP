@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![HertelP's GitHub stats](https://github-readme-stats.vercel.app/api?username=HertelP&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=HertelP&theme=dark)
