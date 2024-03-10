@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -->
 ![HertelP's GitHub stats](https://github-readme-stats.vercel.app/api?username=HertelP&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HertelP&theme=dark"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HertelP&hide_progress=true&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HertelP&theme=dark)
