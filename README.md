@@ -1,6 +1,6 @@
 ## Hi there my name is Philipp
 #### My expertise in programming languages include
-![My Skills](https://skillicons.dev/icons?i=rust,azure,vue,go,html,css,javascript,svelte,c++&perline=4)
+![My Skills](https://skillicons.dev/icons?i=rust,azure,vue,go,html,css,javascript,svelte,c++&perline=5)
 
 <!--
 **HertelP/HertelP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
