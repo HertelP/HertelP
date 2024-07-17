@@ -1,6 +1,6 @@
 ## Hi there my name is Philipp
 #### My skills
-![My Skills](https://skillicons.dev/icons?i=rust,azure,vue,go,html,css,js,svelte,cpp,arch,bash,docker,git,postgres,neovim&perline=5)
+![My Skills](https://skillicons.dev/icons?i=rust,azure,vue,html,css,js,svelte,cpp,arch,bash,docker,git,postgres,neovim&perline=5)
 
 <!--
 **HertelP/HertelP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
